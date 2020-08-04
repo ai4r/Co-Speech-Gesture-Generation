@@ -1,5 +1,3 @@
-## WORK-IN-PROGRESS
-
 # Co-Speech-Gesture-Generation
 
 Model and train codes for the following project.
@@ -11,4 +9,4 @@ The TED dataset can be found in
 
 * https://github.com/youngwoo-yoon/youtube-gesture-dataset
 
-
+# PLEASE SEE https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation for the runnable code.
